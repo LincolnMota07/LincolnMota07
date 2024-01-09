@@ -21,4 +21,4 @@
 </div><br>
 
 ## 📖 Sobre
-<p>Tenho 24 anos, sou um amante de tecnologia e atualmente desenvolvo projetos na área de FrontEnd,<br> sou estudante de análise e desenvolvimento de sistemas e adoro desenvolver e ajudar<br> no desenvolvimento de projetos, participando de comunidades online.</p>
+<p>Tenho 24 anos, sou um amante de tecnologia e atualmente desenvolvo projetos na área de FrontEnd,<br> sou estudante de análise e desenvolvimento de sistemas e adoro aprender e ajudar<br> no desenvolvimento de projetos, participando de comunidades online.</p>
