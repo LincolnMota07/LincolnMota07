@@ -2,7 +2,6 @@
 
 
 
-[![Portifolio](https://img.shields.io/badge/PORTIFOLIO_-Lincoln_Mota_-blue)
 ](https://portifolio-lincoln.vercel.app/index.html)<br>
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lincolnk.k@hotmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5512996491481&text&type=phone_number&app_absent=0)
