@@ -19,4 +19,4 @@
 </div><br>
 
 ## 📖 Sobre
-<p>Tenho 24 anos, sou um amante de tecnologia e atualmente desenvolvo projetos na área de FrontEnd,<br> sou estudante de análise e desenvolvimento de sistemas e adoro aprender e ajudar<br> no desenvolvimento de projetos, participando de comunidades online.</p>
+<p>Com 25 anos, sou estudante de Análise e Desenvolvimento de Sistemas, com experiência na indústria pela multinacional EATON. Destaco-me por minha abordagem eficiente e agora estou focado em uma transição para a área de QA. Além disso, atuei como freelancer, oferecendo serviços de comunicação visual, gestão de mídias sociais e desenvolvimento web com HTML, CSS e JavaScript. Minha expertise combina habilidades técnicas e criativas para proporcionar soluções impactantes. Atualmente passo por uma transição para a área de Qualidade de Software visando encontrar soluções para melhorar os processos e evitar o máximo erros e falhas...</p>
