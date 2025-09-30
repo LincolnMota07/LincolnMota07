@@ -16,8 +16,17 @@
     <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align = "center" alt="Cypress E2E Testing" src="https://img.shields.io/badge/Cypress-E2E%20Testing-04C38E?style=for-the-badge&logo=cypress&logoColor=white"  />
+    <img align = "center" alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+    <img align = "center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"  />
+    <img align = "center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img align = "center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"  />
+
+
+
 
 </div><br>
 
 ## 📖 Sobre
-<p>Com 25 anos, sou estudante de Análise e Desenvolvimento de Sistemas, com experiência na indústria pela multinacional EATON. Destaco-me por minha abordagem eficiente e agora estou focado em uma transição para a área de QA. Além disso, atuei como freelancer, oferecendo serviços de comunicação visual, gestão de mídias sociais e desenvolvimento web com HTML, CSS e JavaScript. Minha expertise combina habilidades técnicas e criativas para proporcionar soluções impactantes. Atualmente passo por uma transição para a área de Qualidade de Software visando encontrar soluções para melhorar os processos e evitar o máximo erros e falhas...</p>
+<p>Quality Assurance (QA) Analyst with 2+ years of experience in software testing and a strong background working in Agile environments (Scrum/Kanban). My focus is on guaranteeing the quality, reliability, and security of critical systems, having worked on projects for high-profile clients in the healthcare sector, including Grupo Fleury and Beneficência Portuguesa.
+
+I am proficient across all testing stages, with an emphasis on backend logic validation and Test Automation to streamline delivery cycles and increase efficiency.</p>
